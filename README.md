@@ -1,4 +1,4 @@
-# jarvis-ai-assistant
+# WALL-E-ai-assistant
 
 # 🤖 AI Project
 
